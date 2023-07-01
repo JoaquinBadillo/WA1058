@@ -5,7 +5,7 @@ Computación, como los algoritmos y las estructuras de datos.
 
 Las presentaciones fueron guardadas en formato PDF, pero muchas de estas contienen
 animaciones para hacer que el contenido sea más claro. Estas animaciones están disponibles
-en Google Slides: 
+en [Google Slides](https://drive.google.com/drive/folders/1LqtZ7wqVOz_utlPqHx_FCw8PuU20C8X8?usp=sharing) 
 
 Algunas presentaciones en realidad tomaron 2 o más sesiones para ser completadas y algunas
 secciones pueden ser omitidas dependiendo del interés que tenga el lector por aprender acerca
